@@ -1,0 +1,5 @@
+Movie.class
+MovieProducer.class
+MovieConsumer.class
+MovieDeserializer.class
+MovieResource.class
